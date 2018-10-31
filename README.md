@@ -1,26 +1,16 @@
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+#A simple Postcard
 
+This is a simple Postcard create in html and css. This Postcard you can use for many purposes.
 
-Hi there! Welcome to Cloud9 IDE!
+#Installing
 
-To get you started, we included a small hello world application.
+https://github.com/espvtes/my_postcard.git
 
-1) Open the hello-world.html file
+#Built with
 
-2) Click on the Preview button to open a live preview pane
+*cloud9
+*Sublime
 
-3) Make some changes to the file, save, watch the preview, and have fun!
+#Author
 
-Happy coding!
-The Cloud9 IDE team
-
-
-## Support & Documentation
-
-Visit http://docs.c9.io for documentation, or http://support.c9.io for support.
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+Yusniel Espino
